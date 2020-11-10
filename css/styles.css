@@ -522,14 +522,14 @@ a:hover {
         width: 275px;
     }
     .contacts__button {
-        width: 252px;
+        width: 230px;
         margin: 0px auto;
         padding: 13px 30px;
     }
     .contacts__icons {
         display: flex;
         justify-content: space-between;
-        width: 312px;
+        width: 290px;
         margin: 50px auto 0px;
     }
     .contacts__links {
